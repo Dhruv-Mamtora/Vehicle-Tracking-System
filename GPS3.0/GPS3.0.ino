@@ -129,6 +129,7 @@ String generateHTMLResponse() {
   html += "<tr><th>Longitude</th><td>" + lng_str + "</td></tr>";
   html += "<tr><th>Date</th><td>" + date_str + "</td></tr>";
   html += "<tr><th>Time</th><td>" + time_str + "</td></tr>";
+  html += "<tr><th>Link</th><td><a href='http://maps.google.com/maps?q=" + lat_str + "+" + lng_str + "'>View on Map</a></td></tr>";
   html += "</table></body></html>";
 
   return html;
