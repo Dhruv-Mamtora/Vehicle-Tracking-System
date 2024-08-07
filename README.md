@@ -58,7 +58,3 @@ Contributions are welcome! For major changes, please open an issue first to disc
 - [TinyGPS++ library](https://github.com/mikalhart/TinyGPSPlus) for GPS data parsing.
 - [ESP8266WiFi library](https://github.com/esp8266/Arduino/tree/master/libraries/ESP8266WiFi) for WiFi connectivity.
 - [Arduino IDE](https://www.arduino.cc/en/Main/Software) for development environment.
-
----
-
-Feel free to customize the `README.md` further with additional details, troubleshooting tips, or any specific instructions relevant to your project setup and usage.
